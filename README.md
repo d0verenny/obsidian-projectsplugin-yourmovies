@@ -9,7 +9,7 @@ I will diplicate the info from [this post](https://forum.obsidian.md/t/developme
 
 I used obsidian-projects to make my backlog database of movies and games. I use the **Media DB** plugin to grab games/movies info from TMDB, Steam, etc.
 
-To make it output my reviews from Media DB created notes, I wrote a dataviewjs script and put it in the frontmatter of the Media DB plugin's template note. It fetches the text from the body of the note, between the delimiters "## Review" and "***" (a straight line).
+To make it output my reviews from Media DB created notes, I wrote a dataviewjs script and put it in the frontmatter of the Media DB plugin's template note. It fetches the text from the body of the note, between the delimiters, or let's call them "dirty tags": "## Review" and "***" (a straight line).
 
 This is how a note created by Media DB looks like:
 
