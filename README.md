@@ -1,10 +1,6 @@
 # obsidian-projectsplugin-yourmovies
 My script to use with Obisidian Projects plugin along with MediaDB plugin to have your own database of your games and movies!
 
-Hi! Saw your post on obsidian forums regarding the plugin and replied to you there :) Are you going to work on the project?
-
-I also have something to share with you. 
-
 The killer feature of Projects is that unlike Bases core plugin, it allows running the dataview query from the YAML/properties. Which you can mention to attract more people. Not everybody knows that. 
 
 I will diplicate the info from [this post](https://forum.obsidian.md/t/development-for-projects-plugin-needed/101089/27) on Obsidian forums and add more details for your testing purposes.
